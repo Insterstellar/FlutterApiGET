@@ -7,5 +7,5 @@ application. The application serves as a proof of concept for the integration of
 
 
 
-##  - AndroidStudios
+##  - 
 
