@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       // Application name
-      title: 'Flutter Hello World',
+      title: 'NBA TEAMS APP',
       //https://www.balldontlie.io/api/v1/teams
       // Application theme data, you can set the colors for the application as
       // you want
